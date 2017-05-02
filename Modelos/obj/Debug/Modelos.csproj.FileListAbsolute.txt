@@ -1,0 +1,10 @@
+C:\Users\Daniel\Desktop\ControlDePagos\Modelos\bin\Debug\Modelos.dll
+C:\Users\Daniel\Desktop\ControlDePagos\Modelos\bin\Debug\Modelos.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ControlDePagos\Modelos\obj\Debug\Modelos.dll
+C:\Users\Daniel\Desktop\ControlDePagos\Modelos\obj\Debug\Modelos.pdb
+E:\Proyectos C#\ControlDePagos\Modelos\bin\Debug\Modelos.dll
+E:\Proyectos C#\ControlDePagos\Modelos\bin\Debug\Modelos.pdb
+E:\Proyectos C#\ControlDePagos\Modelos\obj\Debug\Modelos.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\ControlDePagos\Modelos\obj\Debug\Modelos.dll
+E:\Proyectos C#\ControlDePagos\Modelos\obj\Debug\Modelos.pdb

@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1BD0FACA-F320-4291-A001-CF00FDED7E76}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Diseño</RootNamespace>
+    <AssemblyName>Diseño</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>C:\Users\Daniel\Desktop\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>85C05751F2F8C3DAD6818F030DCC572D804B145E</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Diseño_ClaveTemporal.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormLogin.Designer.cs">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMenu.Designer.cs">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAlumno\FormAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAlumno\FormAlumnos.Designer.cs">
+      <DependentUpon>FormAlumnos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAlumno\FormEliminarAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAlumno\FormEliminarAlumno.Designer.cs">
+      <DependentUpon>FormEliminarAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAlumno\FormModificarAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAlumno\FormModificarAlumno.Designer.cs">
+      <DependentUpon>FormModificarAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MAlumno\FormRegistrarAlumno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MAlumno\FormRegistrarAlumno.Designer.cs">
+      <DependentUpon>FormRegistrarAlumno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MPago\dtListadoPagos.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dtListadoPagos.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="MPago\FormPago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MPago\FormPago.Designer.cs">
+      <DependentUpon>FormPago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MPago\FormPagoreporte.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MPago\FormPagoreporte.Designer.cs">
+      <DependentUpon>FormPagoreporte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormLogin.resx">
+      <DependentUpon>FormLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMenu.resx">
+      <DependentUpon>FormMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAlumno\FormAlumnos.resx">
+      <DependentUpon>FormAlumnos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAlumno\FormEliminarAlumno.resx">
+      <DependentUpon>FormEliminarAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAlumno\FormModificarAlumno.resx">
+      <DependentUpon>FormModificarAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MAlumno\FormRegistrarAlumno.resx">
+      <DependentUpon>FormRegistrarAlumno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MPago\FormPago.resx">
+      <DependentUpon>FormPago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MPago\FormPagoreporte.resx">
+      <DependentUpon>FormPagoreporte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MPago\ReportePagos.rdlc" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Diseño_ClaveTemporal.pfx" />
+    <None Include="MPago\dtListadoPagos.xsc">
+      <DependentUpon>dtListadoPagos.xsd</DependentUpon>
+    </None>
+    <None Include="MPago\dtListadoPagos.xsd">
+      <SubType>Designer</SubType>
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>dtListadoPagos.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="MPago\dtListadoPagos.xss">
+      <DependentUpon>dtListadoPagos.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\DataSources\Modelos.ConceptoPagoDetalle.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{75cdc082-8b37-40f7-8cbf-4af0524ba9c4}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modelos\Modelos.csproj">
+      <Project>{1b67f066-fb14-49ce-ada3-3c372c4b10b3}</Project>
+      <Name>Modelos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MVP\MVP.csproj">
+      <Project>{750fff2b-ef95-4ab7-a6dd-03aa4bc325dd}</Project>
+      <Name>MVP</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Servicio\Servicio.csproj">
+      <Project>{150ccd89-7c78-49dd-b01b-cd4522d16f9a}</Project>
+      <Name>Servicio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="MCiclo\" />
+    <Folder Include="MColegiatura\" />
+    <Folder Include="MSemestre\" />
+    <Folder Include="MUsuario\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="contra.png" />
+    <Content Include="entrar.png" />
+    <Content Include="MAlumno\imagenes\alumno.png" />
+    <Content Include="MAlumno\imagenes\iconopago.png" />
+    <Content Include="MAlumno\imagenes\signopesos.png" />
+    <Content Include="MPago\imagenes\iconogrimac.jpeg" />
+    <Content Include="sss.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 y x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

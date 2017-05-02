@@ -1,0 +1,60 @@
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\Diseño.exe.config
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\Diseño.exe
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\Diseño.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.FormLogin.resources
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.exe
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.FormMenu.resources
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\Datos.dll
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\Modelos.dll
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\MVP.dll
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\Servicio.dll
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\Datos.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\Modelos.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\MVP.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\Servicio.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.MPago.FormPago.resources
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.MPago.FormPagoreporte.resources
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\RdlCompile.cache
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\RdlCompile.compiled
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.MAlumno.FormAlumnos.resources
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.MAlumno.FormEliminarAlumno.resources
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.MAlumno.FormModificarAlumno.resources
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.MAlumno.FormRegistrarAlumno.resources
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\Diseño.exe.manifest
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\bin\Debug\Diseño.application
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.exe.manifest
+C:\Users\Daniel\Desktop\ControlDePagos\Diseño\obj\Debug\Diseño.application
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\Diseño.exe.config
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.exe
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.pdb
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\Diseño.exe.manifest
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\Diseño.application
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\Diseño.exe
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\Diseño.pdb
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\Datos.dll
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\Modelos.dll
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\MVP.dll
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\Servicio.dll
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\Datos.pdb
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\Modelos.pdb
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\MVP.pdb
+E:\Proyectos C#\ControlDePagos\Diseño\bin\Debug\Servicio.pdb
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.FormLogin.resources
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.FormMenu.resources
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.MAlumno.FormAlumnos.resources
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.MAlumno.FormEliminarAlumno.resources
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.MAlumno.FormModificarAlumno.resources
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.MAlumno.FormRegistrarAlumno.resources
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.MPago.FormPago.resources
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.MPago.FormPagoreporte.resources
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.Properties.Resources.resources
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.csproj.GenerateResource.Cache
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\RdlCompile.cache
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\RdlCompile.compiled
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.exe.manifest
+E:\Proyectos C#\ControlDePagos\Diseño\obj\Debug\Diseño.application

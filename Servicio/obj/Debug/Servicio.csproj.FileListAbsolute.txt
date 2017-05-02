@@ -1,0 +1,18 @@
+C:\Users\Daniel\Desktop\ControlDePagos\Servicio\bin\Debug\Servicio.dll
+C:\Users\Daniel\Desktop\ControlDePagos\Servicio\bin\Debug\Servicio.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\Servicio\obj\Debug\Servicio.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ControlDePagos\Servicio\obj\Debug\Servicio.dll
+C:\Users\Daniel\Desktop\ControlDePagos\Servicio\obj\Debug\Servicio.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\Servicio\bin\Debug\Datos.dll
+C:\Users\Daniel\Desktop\ControlDePagos\Servicio\bin\Debug\Modelos.dll
+C:\Users\Daniel\Desktop\ControlDePagos\Servicio\bin\Debug\Datos.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\Servicio\bin\Debug\Modelos.pdb
+E:\Proyectos C#\ControlDePagos\Servicio\bin\Debug\Servicio.dll
+E:\Proyectos C#\ControlDePagos\Servicio\bin\Debug\Servicio.pdb
+E:\Proyectos C#\ControlDePagos\Servicio\bin\Debug\Datos.dll
+E:\Proyectos C#\ControlDePagos\Servicio\bin\Debug\Modelos.dll
+E:\Proyectos C#\ControlDePagos\Servicio\bin\Debug\Datos.pdb
+E:\Proyectos C#\ControlDePagos\Servicio\bin\Debug\Modelos.pdb
+E:\Proyectos C#\ControlDePagos\Servicio\obj\Debug\Servicio.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\ControlDePagos\Servicio\obj\Debug\Servicio.dll
+E:\Proyectos C#\ControlDePagos\Servicio\obj\Debug\Servicio.pdb

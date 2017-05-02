@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{150CCD89-7C78-49DD-B01B-CD4522D16F9A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Servicio</RootNamespace>
+    <AssemblyName>Servicio</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CMes.cs" />
+    <Compile Include="Conversiones\AlumnoViewModelFactory.cs" />
+    <Compile Include="Conversiones\CarritoPagos.cs" />
+    <Compile Include="Conversiones\PagoFabrica.cs" />
+    <Compile Include="Criterios\CAlumno.cs" />
+    <Compile Include="Criterios\CCiclo.cs" />
+    <Compile Include="Criterios\CCicloFecha.cs" />
+    <Compile Include="Criterios\CColegiatura.cs" />
+    <Compile Include="Criterios\CConcepto.cs" />
+    <Compile Include="Criterios\CConceptoCostoCiclo.cs" />
+    <Compile Include="Criterios\CCosto.cs" />
+    <Compile Include="Criterios\CGrupo.cs" />
+    <Compile Include="Criterios\CGrupoAlumnoTC.cs" />
+    <Compile Include="Criterios\CMes.cs" />
+    <Compile Include="Criterios\CPago.cs" />
+    <Compile Include="Criterios\CSemestre.cs" />
+    <Compile Include="Criterios\CUsuario.cs" />
+    <Compile Include="Objetos\OAlumno.cs" />
+    <Compile Include="Objetos\OAlumnoLista.cs" />
+    <Compile Include="Objetos\OCiclo.cs" />
+    <Compile Include="Objetos\OCicloFecha.cs" />
+    <Compile Include="Objetos\OCicloFechaLista.cs" />
+    <Compile Include="Objetos\OCicloLista.cs" />
+    <Compile Include="Objetos\OConcepto.cs" />
+    <Compile Include="Objetos\OConceptoCostoCiclo.cs" />
+    <Compile Include="Objetos\OConceptoLista.cs" />
+    <Compile Include="Objetos\OCostoLista.cs" />
+    <Compile Include="Objetos\OGrupoAlumnoTC.cs" />
+    <Compile Include="Objetos\OGrupoLista.cs" />
+    <Compile Include="Objetos\OListaMes.cs" />
+    <Compile Include="Objetos\OMes.cs" />
+    <Compile Include="Objetos\OPago.cs" />
+    <Compile Include="Objetos\OPagoLista.cs" />
+    <Compile Include="Objetos\OSemestre.cs" />
+    <Compile Include="Objetos\OTurnoLista.cs" />
+    <Compile Include="Objetos\OUsuario.cs" />
+    <Compile Include="Objetos\RespuestaBase.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ServicioAlumno.cs" />
+    <Compile Include="ServicioCiclo.cs" />
+    <Compile Include="ServicioCicloFecha.cs" />
+    <Compile Include="ServicioConcepto.cs" />
+    <Compile Include="ServicioConceptoCostoCiclo.cs" />
+    <Compile Include="ServicioCosto.cs" />
+    <Compile Include="ServicioGrupo.cs" />
+    <Compile Include="ServicioGrupoAlumnoTC.cs" />
+    <Compile Include="ServicioMes.cs" />
+    <Compile Include="ServicioPago.cs" />
+    <Compile Include="ServicioSemestre.cs" />
+    <Compile Include="ServicioTurno.cs" />
+    <Compile Include="ServicioUsuario.cs" />
+    <Compile Include="Vistas\AlumnoViewModel.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{75cdc082-8b37-40f7-8cbf-4af0524ba9c4}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Modelos\Modelos.csproj">
+      <Project>{1b67f066-fb14-49ce-ada3-3c372c4b10b3}</Project>
+      <Name>Modelos</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

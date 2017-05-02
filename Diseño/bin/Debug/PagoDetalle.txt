@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ConceptoPagoDetalle xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Folio>0</Folio>
+  <Codigo>2</Codigo>
+  <Alumno>Tania Alejandra </Alumno>
+  <Grupo>301</Grupo>
+  <Turno>Vespertino</Turno>
+  <Semestre>Sem Impar</Semestre>
+  <Concepto>Colegiatura</Concepto>
+  <Pago>500</Pago>
+  <Mes>Agosto</Mes>
+  <FkCosto>1</FkCosto>
+  <FkConcepto>2</FkConcepto>
+  <FkMes>8</FkMes>
+</ConceptoPagoDetalle>

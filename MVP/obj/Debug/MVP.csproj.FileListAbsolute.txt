@@ -1,0 +1,22 @@
+C:\Users\Daniel\Desktop\ControlDePagos\MVP\bin\Debug\MVP.dll
+C:\Users\Daniel\Desktop\ControlDePagos\MVP\bin\Debug\MVP.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\MVP\obj\Debug\MVP.dll
+C:\Users\Daniel\Desktop\ControlDePagos\MVP\obj\Debug\MVP.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\MVP\obj\Debug\MVP.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\ControlDePagos\MVP\bin\Debug\Datos.dll
+C:\Users\Daniel\Desktop\ControlDePagos\MVP\bin\Debug\Modelos.dll
+C:\Users\Daniel\Desktop\ControlDePagos\MVP\bin\Debug\Servicio.dll
+C:\Users\Daniel\Desktop\ControlDePagos\MVP\bin\Debug\Datos.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\MVP\bin\Debug\Modelos.pdb
+C:\Users\Daniel\Desktop\ControlDePagos\MVP\bin\Debug\Servicio.pdb
+E:\Proyectos C#\ControlDePagos\MVP\bin\Debug\MVP.dll
+E:\Proyectos C#\ControlDePagos\MVP\bin\Debug\MVP.pdb
+E:\Proyectos C#\ControlDePagos\MVP\bin\Debug\Datos.dll
+E:\Proyectos C#\ControlDePagos\MVP\bin\Debug\Modelos.dll
+E:\Proyectos C#\ControlDePagos\MVP\bin\Debug\Servicio.dll
+E:\Proyectos C#\ControlDePagos\MVP\bin\Debug\Datos.pdb
+E:\Proyectos C#\ControlDePagos\MVP\bin\Debug\Modelos.pdb
+E:\Proyectos C#\ControlDePagos\MVP\bin\Debug\Servicio.pdb
+E:\Proyectos C#\ControlDePagos\MVP\obj\Debug\MVP.csprojResolveAssemblyReference.cache
+E:\Proyectos C#\ControlDePagos\MVP\obj\Debug\MVP.dll
+E:\Proyectos C#\ControlDePagos\MVP\obj\Debug\MVP.pdb
